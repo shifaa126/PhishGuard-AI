@@ -58,3 +58,16 @@ streamlit run app.py
 This project is developed for educational purposes. Predictions are not a guarantee that a website is safe or malicious.
 
 **Developed as an Artificial Intelligence and Machine Learning project.**
+## 📸 Application Screenshots
+
+### Home – URL Scanner
+![Home Dashboard](screenshots/home.png)
+
+### QR Code Scanner
+![QR Code Scanner](screenshots/qr-scanner.png)
+
+### Bulk URL Scanner
+![Bulk Scanner](screenshots/bulk-scanner.png)
+
+### Scan History
+![Scan History](screenshots/scan-history.png)
